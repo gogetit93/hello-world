@@ -1,2 +1,2 @@
 # hello-world
-Program to show hello world in the console
+Program code, which show hello world in the console
